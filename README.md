@@ -15,11 +15,14 @@ I'm a dedicated frontend developer with 6 month of experience in crafting engagi
 
 ## Projects
 
+### All Javascript Projects with live preview
+- **Link :** https://github.com/arshdeepweb/javascript-projects
+
+  
 ### Project 1: [Tic Tac Toe]
 - **Description:** Make tic tac toe game using Javascript.
 - **Demo:** https://tic-tac-toe-active.netlify.app/
 - **Repo:** https://github.com/arshdeepweb/tic-tac-toe-js
-
 
 ## Skills
 - HTML5
