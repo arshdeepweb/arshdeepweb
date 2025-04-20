@@ -1,64 +1,96 @@
-# Hi there, I'm Arshdeep Singh! 👋  
+<h1 align="center">Hi 👋, I'm Arshdeep Singh</h1>
+<h3 align="center">Full Stack Developer | UI/UX Enthusiast</h3>
 
-### MERN Stack Developer | UI/UX Enthusiast  
-
-- **Currently**: Building scalable web applications with modern technologies  
-- **Interest**: Exploring advanced frontend frameworks and backend optimizations  
-- **Contribution**: Developing efficient, user-friendly interfaces with **ShadCN, TanStack Table, and Clerk**  
-- **Ask me about**: Next.js, TypeScript, PostgreSQL, Prisma, and State Management  
-- **Reach me at**: imarshdeep99@gmail.com  
-- **Fun fact**: Passionate about **problem-solving** and **performance optimization**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+Apps;Next.js,+Prisma,+MySQL+Expert;Problem+Solver+%26+Performance+Lover;&center=true&width=500&height=50" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me  
-I'm a **MERN stack developer** with expertise in **Next.js, PostgreSQL, Prisma, and TypeScript**. I enjoy solving complex problems and optimizing applications for **performance and scalability**. My journey started with frontend development, and now I specialize in **full-stack solutions, authentication, and state management**.  
+## 🔭 Currently Working On
+
+- Building **scalable web applications** with modern tech
+- Exploring **frontend frameworks** & backend optimizations
+- Creating user-friendly interfaces using **ShadCN, TanStack Table, and Clerk**
+- Diving deeper into **Next.js, PostgreSQL, Prisma, and state management**
 
 ---
 
-## 🛠️ Projects  
+## 🌐 Contact Me
 
-### 🔹 **Inventory Management Web App**  
-- **Tech Stack:** Next.js, PostgreSQL, Prisma, TanStack Query, Clerk  
-- **Description:** A **real-time stock tracking system** with analytics and custom reports  
-
-### 🔹 **Healthcare CRM System**  
-- **Tech Stack:** Next.js, PostgreSQL, Prisma, TanStack Table, Clerk  
-- **Description:** A **multi-role CRM system** for managing patient data, sales, and coordination  
-
-### 🔹 **All JavaScript Projects with Live Preview**  
-- **Link:** [GitHub Repo](https://github.com/arshdeepweb/javascript-projects)  
-
-### 🔹 **Tic Tac Toe Game**  
-- **Description:** Classic **Tic Tac Toe** game using JavaScript  
-- **Demo:** [Live Preview](https://tic-tac-toe-active.netlify.app/)  
-- **Repo:** [GitHub](https://github.com/arshdeepweb/tic-tac-toe-js)  
+- 📫 Email: [imarshdeep99@gmail.com](mailto:imarshdeep99@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/arshdeepweb](https://www.linkedin.com/in/arshdeepweb)
 
 ---
 
-## 🧑‍💻 Skills  
+## 🛠 Languages and Tools
 
-### **Frontend**  
-- **Next.js (v14+), React.js, TypeScript**  
-- **Tailwind CSS, ShadCN UI, TanStack Table**  
-- **Responsive Web Design, UI/UX Optimization**  
-
-### **Backend & Database**  
-- **Node.js, Express.js, NestJS**  
-- **PostgreSQL, Prisma, Drizzle, MongoDB**  
-- **REST APIs, GraphQL, RBAC**  
-
-### **DevOps & Tools**  
-- **Docker, VPS, Nginx, PM2, Vercel, Firebase**  
-- **Git, GitHub, CI/CD Pipelines**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,git,vercel,docker,Supabase" />
+</p>
 
 ---
 
-## 📬 Contact  
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/arshdeepweb)  
-- **Email**: imarshdeep99@gmail.com  
+## 🧠 Skills
+
+### **Frontend**
+- Next.js (v14+), React.js, TypeScript  
+- Tailwind CSS, ShadCN UI, TanStack Table  
+- Responsive Web Design, UI/UX Optimization
+
+### **Backend & DB**
+- Node.js, Express.js, NestJS  
+- PostgreSQL, Prisma, Drizzle, MongoDB  
+- REST APIs, AWS S3, Cloudinary, RBAC
+
+### **DevOps & Tools**
+- Docker, VPS, PM2, Nginx, Firebase  
+- Git, GitHub, CI/CD Pipelines, Vercel
 
 ---
 
-## 💼 Hire Me  
-I'm available for **freelance projects** and **job opportunities**. If you're looking for a **MERN stack developer** to build high-quality web applications, feel free to **reach out**!
+## 📚 Featured Projects
+
+### 🔹 Inventory Management Web App
+> A real-time stock tracking system with analytics and custom reports  
+**Tech Stack**: Next.js, PostgreSQL, Prisma, TanStack Query, Clerk
+
+### 🔹 Healthcare CRM System
+> Multi-role CRM system for patient data, sales, and coordination  
+**Tech Stack**: Next.js, PostgreSQL, Prisma, TanStack Table, Clerk
+
+### 🔹 JavaScript Projects Collection
+> All fun mini JS projects  
+[🔗 GitHub Repo](https://github.com/arshdeepweb/javascript-projects)
+
+### 🔹 Tic Tac Toe Game
+> Classic JavaScript Tic Tac Toe  
+[🔗 Demo](https://tic-tac-toe-active.netlify.app/) | [🔗 Repo](https://github.com/arshdeepweb/tic-tac-toe-js)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arshdeepweb&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshdeepweb&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshdeepweb&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arshdeepweb&theme=tokyonight" />
+</p>
+
+---
+
+## 💼 Hire Me
+
+I'm available for **freelance projects** and **job opportunities**.  
+If you're looking for a **Full stack developer** to build high-quality web apps, feel free to reach out! 🚀
