@@ -12,7 +12,7 @@
 - Building **scalable web applications** with modern tech
 - Exploring **frontend frameworks** & backend optimizations
 - Creating user-friendly interfaces using **ShadCN, TanStack Table, and Clerk**
-- Diving deeper into **Next.js, PostgreSQL, Prisma, and state management**
+- Diving deeper into **Next.js, MySQL, Prisma, and state management**
 
 ---
 
@@ -26,7 +26,7 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,git,vercel,docker,Supabase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,git,vercel,docker,supabase, aws" />
 </p>
 
 ---
