@@ -25,8 +25,8 @@
 
 ## 🛠 Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,git,vercel,docker,supabase, aws" />
+<p style="text-align: left;">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,git,vercel,docker,supabase,aws" alt="Skills" />
 </p>
 
 ---
