@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+Apps;Next.js,+Prisma,+MySQL+Expert;Problem+Solver+%26+Performance+Lover;&center=true&width=500&height=100" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+Apps;Next.js,+Prisma,+MySQL+Expert;Problem+Solver+%26+Performance+Lover;&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🛠 Languages and Tools
 
 <p style="text-align: left;">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mysql,postgres,mongodb,prisma,tailwind,git,vercel,docker,supabase,aws" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mysql,postgres,mongodb,prisma,tailwind,git,vercel,docker,supabase,aws" alt="Skills" height="100" width="100"/>
 </p>
 
 ---
